@@ -26,8 +26,8 @@ I'm an **AI Creative Artist** and **Generative AI Video Producer** from Kerala, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fadilp5x&show_icons=true&count_private=true&title_color=E50914&icon_color=E50914&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Fadil's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilp5x&layout=compact&title_color=E50914&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadilp5x&theme=dark" alt="Fadil's GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fadilp5x&theme=dark" alt="Repos per language"/>
 
 <img src="https://streak-stats.demolab.com?user=fadilp5x&background=0D1117&border=30363D&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak"/>
 
@@ -43,17 +43,9 @@ I'm an **AI Creative Artist** and **Generative AI Video Producer** from Kerala, 
 
 ## 🚀 Featured projects
 
-<div align="center">
-
-<a href="https://github.com/fadilp5x/SIBAQEVALUTAION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fadilp5x&repo=SIBAQEVALUTAION&title_color=E50914&icon_color=E50914&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="SIBAQ Evaluation Software"/></a>
-<a href="https://github.com/fadilp5x/YELLOW-MELLOW-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fadilp5x&repo=YELLOW-MELLOW-&title_color=E50914&icon_color=E50914&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Yellow Mellow Flash Quiz"/></a>
-<a href="https://github.com/fadilp5x/HSCAP-Auto-Finder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fadilp5x&repo=HSCAP-Auto-Finder&title_color=E50914&icon_color=E50914&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="HSCAP Auto Finder"/></a>
-
-</div>
-
-- 🏆 **SIBAQEVALUTAION** — evaluation software for the SIBAQ National Arts Fest programme judging
-- 📺 **YELLOW-MELLOW-** — presenter-controlled TV display tool for the Yellow Mellow Flash Quiz college event
-- 🔎 **HSCAP-Auto-Finder** — Chrome extension that finds Kerala Plus-One allotments by name
+- 🏆 **[SIBAQEVALUTAION](https://github.com/fadilp5x/SIBAQEVALUTAION)** — evaluation software for the SIBAQ National Arts Fest programme judging
+- 📺 **[YELLOW-MELLOW-](https://github.com/fadilp5x/YELLOW-MELLOW-)** — presenter-controlled TV display tool for the Yellow Mellow Flash Quiz college event
+- 🔎 **[HSCAP-Auto-Finder](https://github.com/fadilp5x/HSCAP-Auto-Finder)** — Chrome extension that finds Kerala Plus-One allotments by name
 
 ## 🌐 Find me
 
